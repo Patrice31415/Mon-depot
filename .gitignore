@@ -3,6 +3,6 @@
 # ignore un fichier en particulier
 config.yaml
 # ignore tout le répertoire logs
-/logs/*
+/logs
 # (tout logs) sauf le fichier .gitkeep
 !/logs/.gitkeep
